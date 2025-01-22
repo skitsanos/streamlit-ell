@@ -1,0 +1,5 @@
+streamlit
+openai
+requests
+ell-ai[sqlite]
+pandas
